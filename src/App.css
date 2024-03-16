@@ -1,0 +1,16 @@
+/* styles.css */
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.input-field {
+  width: 50px; /* Adjust width as needed */
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  height: 30vh;
+}
